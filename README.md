@@ -49,7 +49,7 @@ traffic-flow-analysis/
 ### 1. Clone the Repository
 Clone the project repository to your local machine:
 ```bash
-git clone <your-repo-url>
+git clone <https://github.com/kaif-istan/Traffic-Flow-Analysis-using-YOLOv8-and-SORT.git>
 cd traffic-flow-analysis
 ```
 
